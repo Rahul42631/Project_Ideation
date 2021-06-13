@@ -11,6 +11,6 @@ CMOS:-This sensor consists of millions of pixels which when exposed to light tur
 
 IMPROVEMENTS THAT CAN BE MADE:-
 
-1. Instead of using tredition red LED used in mouse we can use IR led since having a pen with countinuously glowing LED is very distracting and is not favoured .Far better advantage of using IR LED is that it consumes less power that's why most of the remotes used IR LED incresing the battery life.
+1. Instead of using tredition red LED used in mouse we can use IR led since having a pen with countinuously glowing LED is very distracting and is not favoured .Far better advantage of using IR LED is that it consumes less power that's why most of the remotes used IR LED increasing the battery life.
 
 2. It is not a good idea to keep the pen working (ON) all the time since it is going to drain the bettery quickly and can also add unwanted text that the user didn't intended to write for eg going to next line or changing the page at that instant the pen is still recording the text to avoid this we can introduce pizoelecteric sensors into the pen. Pezo electric sensor generates electrical charge and can be measured as voltage difference when it experiences pressure. Hence when ever the pen touches the surface of paper the inbuilt pizoelectric sensor will sence the pressure abd starts recording the text.
