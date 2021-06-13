@@ -1,8 +1,8 @@
 # Problem Statement
 The main idea of this project is to build a pen which can sense and store the data written through it conserving the texture of written data which could be further accesed by the device connected with the pen.
 
-## Ideationhence the project f
-Just like a mouse this pen keeps the record of previous state and compare it with its new state to find its new location and path covered by it hence we want to keep track of location of the tip as well as the environment around it (SLAM) in order to copare its new position.
+## Ideation
+Just like a mouse this pen keeps the record of previous state and compare it with its new state to find its new location and path covered by it hence we want to keep track of location of the tip as well as the environment around it (SLAM) in order to compare its new position.
 This functionality is well mamnaged by a mouse It consist of an LED and its rays are directed by a small prism on the surface on which mouse is kept these rays are reflected and further pass through a lens which converges it onto CMOS sensor which takes around thousand of images per second and send to DSP (Digital Signam Processing) which processes the image and find it's new location and makes cursor move in similar fashion.
 
 CMOS:-This sensor consists of millions of pixels which when exposed to light turns photons to charge this accumulated charged is turned into voltage and gets amplified simuntaneously within the pixel and every such voltage is assigned with corrosponding colour that fell on that pixel (photon).
